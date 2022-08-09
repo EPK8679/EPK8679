@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EPK
-- 👀 I’m interested in learning new technologies to develop analytics skills
+- 👀 I’m interested in developing data driven solutions.
 - 🌱 I’m currently expertise in R and python
 - 💞️ I’m looking to collaborate on analytics projects
 - 📫 How to reach me eldhose.p.kunnel@gmail.com
